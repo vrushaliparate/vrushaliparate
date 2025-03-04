@@ -11,7 +11,7 @@ Querying data using SQL.
 ## My Career Journey 👩‍💻
 ![CT](https://github.com/user-attachments/assets/2a46ea9b-77fd-4f2d-b884-097fce67dfca)
 
-📚 Projects
+## 📚 Projects
 Welcome to my portfolio, where I showcase my projects.
 
 🛠️ Tools
