@@ -8,3 +8,4 @@ Querying data using SQL.
  - Developing dashboards on Tableau, Power BI and Qlik.
  - Data analysis and reporting using Excel.
 
+![CT](https://github.com/user-attachments/assets/2a46ea9b-77fd-4f2d-b884-097fce67dfca)
