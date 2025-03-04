@@ -1,8 +1,7 @@
 ## Hi there 👋
 
+[GH1](https://github.com/user-attachments/assets/a03cc066-8d3e-4c54-920c-afedfedb9c0b)
 
-vrushaliparate/vrush![GH1](https://github.com/user-attachments/assets/a03cc066-8d3e-4c54-920c-afedfedb9c0b)
-aliparate is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
 Here are some ideas to get you started:
 
