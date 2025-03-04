@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-[GH1](https://github.com/user-attachments/assets/a03cc066-8d3e-4c54-920c-afedfedb9c0b)
 ![GH1](https://github.com/user-attachments/assets/9c4e6939-0634-43a7-bfb7-e6d88e109ccb)
 
 <!--
