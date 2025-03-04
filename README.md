@@ -14,10 +14,10 @@ Querying data using SQL.
 ## 📚 Projects
 Welcome to my portfolio, where I showcase my projects.
 
-🛠️ Tools
-Language: SQL, Python
-Database: MySQL
-Visualization: Power BI
+## 🛠️ Tools
+ - Language: SQL, Python
+ - Database: MySQL
+ - Visualization: Power BI
 
 👋🏻 Connect with Me
  - Linkedin: https://www.linkedin.com/in/vrushaliparate
