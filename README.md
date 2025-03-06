@@ -13,7 +13,7 @@ Querying data using SQL.
 ![CT](https://github.com/user-attachments/assets/2a46ea9b-77fd-4f2d-b884-097fce67dfca)
 
 ## 📚 Projects
-Welcome to my portfolio, where I showcase my projects.
+Welcome to my portfolio, where I showcase my [projects](https://github.com/vrushaliparate/Portfolio-Guide/blob/main/README.md).
 
 ## 🛠️ Tools
  - Language: SQL, Python
