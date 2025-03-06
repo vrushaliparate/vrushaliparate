@@ -1,4 +1,3 @@
-(Profile Under Construction 🚧 )
 ## Introducing Myself 🙋🏻‍♀️
 ![GH1](https://github.com/user-attachments/assets/9c4e6939-0634-43a7-bfb7-e6d88e109ccb)
 
