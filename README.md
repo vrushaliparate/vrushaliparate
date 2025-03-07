@@ -4,9 +4,9 @@
 Hello, I'm Vrushali. Data Analyst with expertise in data analysis (predictive, descriptive), automating reports, query optimization, database design, data modelling.
 
  - Querying data using SQL.
- - Generate reports and perform ad-hoc data analysis using SQL and Alteryx. 
+ - Generate reports and perform ad-hoc data analysis using Excel, SQL and Alteryx. 
  - Developing dashboards on Tableau, Power BI and Qlik.
- - Data analysis and reporting using Excel.
+ - Data analysis and reporting using Python and Excel.
 
 ## My Career Journey 👩‍💻
 ![CT](https://github.com/user-attachments/assets/2a46ea9b-77fd-4f2d-b884-097fce67dfca)
