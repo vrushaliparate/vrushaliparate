@@ -9,10 +9,8 @@ Hello, I'm Vrushali. Data Analyst with expertise in data analysis (predictive, d
  - Data analysis and reporting using Python and Excel.
 
 ## My Career Journey 👩‍💻
-![CT](https://github.com/user-attachments/assets/2a46ea9b-77fd-4f2d-b884-097fce67dfca)
-![Career Trajectory](https://github.com/user-attachments/assets/7f64c257-f272-4b34-ad85-715f88167812)
 <p align="center">
-  <img src="https://[link-to-your-image.png](https://github.com/user-attachments/assets/1a358a48-3edb-42d0-9b2d-49a48f136e23)" alt="Career Trajectory" width="600">
+  <img src="https://https://github.com/user-attachments/assets/1a358a48-3edb-42d0-9b2d-49a48f136e23)" alt="Career Trajectory" width="600">
 </p>
 
 
