@@ -10,6 +10,7 @@ Hello, I'm Vrushali. Data Analyst with expertise in data analysis (predictive, d
 
 ## My Career Journey 👩‍💻
 ![CT](https://github.com/user-attachments/assets/2a46ea9b-77fd-4f2d-b884-097fce67dfca)
+![Career Trajectory](https://github.com/user-attachments/assets/7f64c257-f272-4b34-ad85-715f88167812)
 
 ## 📚 Projects
 Welcome to my github, where I showcase my [projects](https://github.com/vrushaliparate/Portfolio-Guide/blob/main/README.md) and the code behind my projects.
